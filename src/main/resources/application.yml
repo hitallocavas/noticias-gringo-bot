@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: noticiasGringoBot
+netty:
+  default:
+    allocator:
+      max-order: 3
