@@ -1,4 +1,4 @@
-package com.noticiasgringo;
+package com.noticiasgringo.app;
 
 import io.micronaut.runtime.Micronaut;
 

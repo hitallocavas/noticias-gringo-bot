@@ -1,6 +1,6 @@
 micronaut:
   application:
-    name: noticiasGringoBot
+    name: noticias-gringos-bot
 netty:
   default:
     allocator:
